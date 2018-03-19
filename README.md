@@ -23,8 +23,8 @@ Realizado por: [Juan Guillermo Dueñas](jgduenasl@unal.edu.co), y [Javier Sierra
 ## 6.0 Referencias
 
 Los libros en los que nos basamos para esta revisión fueron:
-1. [Roger A. Horn and Cgarles R. Johnson, Matrix Analysis, Cambridge University Press (2013)]
+1. [Roger A. Horn and Cgarles R. Johnson, Matrix Analysis, Cambridge University Press, (2013)]()
 2. [A Course in Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) <br>
 3. [Google Eigenvectors](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf) <br>
 Para edición del documento es útil la guía de Markdown Rstudio: <br>
-4.[R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)<br>
+4. [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)<br>
