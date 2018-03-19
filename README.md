@@ -1,5 +1,6 @@
 # Introducción al algebra lineal
 ==================
+
 Estas notas pretenden ser el resultado de una revisión personal de algebra lineal. El propósito es presentar el tema con una visión intuitiva que permita relacionar los conceptos del algebra lineal con diversos modelos en física, y donde sea posible mostrar ejemplos explicitos que ayuden a lograr este propósito.
 
 Realizado por: [Juan Guillermo Dueñas] (jgduenasl@unal.edu.co), y [Javier Sierra] (jsierra@unal.edu.co).
@@ -20,7 +21,7 @@ Realizado por: [Juan Guillermo Dueñas] (jgduenasl@unal.edu.co), y [Javier Sierr
 
 ## 1.0 Introducción
 
-### 6.1 Referencias
+## 6.0 Referencias
 
 Los libros en los que nos basamos para esta revisión fueron:
 [A Course in Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) <br>
