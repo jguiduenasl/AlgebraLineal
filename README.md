@@ -28,3 +28,4 @@ Los libros en los que nos basamos para esta revisión fueron:
 3. [Google Eigenvectors](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf) <br>
 Para edición del documento es útil la guía de Markdown Rstudio: <br>
 4. [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)<br>
+5. [Computational Statistics with Python](http://people.duke.edu/~ccc14/sta-663-2017/)
