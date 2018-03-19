@@ -25,4 +25,4 @@ Realizado por: Juan Guillermo Dueñas (jgduenasl@unal.edu.co), y Javier Sierra (
 Los libros en los que nos basamos para esta revisión fueron:
 [A Course in Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) <br>
 [Google Eigenvectors](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf) <br>
-Para edición del documento es útil la guía de Markdown Rstudio: [R Markdown Cheat Sheet] (https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)<br>
+Para edición del documento es útil la guía de Markdown Rstudio: [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)<br>
