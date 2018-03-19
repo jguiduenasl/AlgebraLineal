@@ -2,25 +2,25 @@
 
 Estas notas pretenden ser el resultado de una revisión personal de algebra lineal. El propósito es presentar el tema con una visión intuitiva que permita relacionar los conceptos del algebra lineal con diversos modelos en física, y donde sea posible mostrar ejemplos explicitos que ayuden a lograr este propósito.
 
-Realizado por: [Juan Guillermo Dueñas](jgduenasl@unal.edu.co), y [Javier Sierra](jsierra@unal.edu.co).
+Realizado por: [Juan Guillermo Dueñas](jgduenasl@unal.edu.co), y [Javier Mauricio Sierra](jsierra@unal.edu.co).
 
 ## Tabla de Contenido
 
-- [0.0 Instalación](#00-Instalación)
+- [0.0 Instalación](#00-instalación)
 	+ [0.1 Python y Pip](#01-python-and-pip)
 	+ [0.2 Librerias](#02-libraries)
-- [1.0 Introducción](#10-Introducción)
+- [1.0 Introducción](#10-introducción)
 	+ [1.1 Why Learn Linear Algebra?](#11-why-learn-linear-algebra)
 	+ [1.2 Scalars & Vectors](#12-scalars--vectors)
 	+ [1.3 Importance](#13-importance)
 	+ [1.4 Notación](#14-notation)
-
+- [Referencias](#-referencias)
 
 ## 0.0 Instalación
 
 ## 1.0 Introducción
 
-## 6.0 Referencias
+## Referencias
 
 Los libros en los que nos basamos para esta revisión fueron:
 1. [Roger A. Horn and Cgarles R. Johnson, Matrix Analysis, Cambridge University Press, (2013)]()
