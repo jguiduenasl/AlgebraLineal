@@ -2,7 +2,7 @@
 
 Estas notas pretenden ser el resultado de una revisión personal de algebra lineal. El propósito es presentar el tema con una visión intuitiva que permita relacionar los conceptos del algebra lineal con diversos modelos en física, y donde sea posible mostrar ejemplos explicitos que ayuden a lograr este propósito.
 
-Realizado por: Juan Guillermo Dueñas (jgduenasl@unal.edu.co), y Javier Sierra (jsierra@unal.edu.co).
+Realizado por: [Juan Guillermo Dueñas](jgduenasl@unal.edu.co), y [Javier Sierra](jsierra@unal.edu.co).
 
 ## Tabla de Contenido
 
