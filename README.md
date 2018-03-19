@@ -8,7 +8,7 @@ Realizado por: Juan Guillermo Dueñas (jgduenasl@unal.edu.co), y Javier Sierra (
 
 - [0.0 Instalación](#00-setup)
 	+ [0.1 Python y Pip](#01-python-and-pip)
-	+ [0.2 Librarias](#02-libraries)
+	+ [0.2 Librerias](#02-libraries)
 - [1.0 Introducción](#10-introduction)
 	+ [1.1 Why Learn Linear Algebra?](#11-why-learn-linear-algebra)
 	+ [1.2 Scalars & Vectors](#12-scalars--vectors)
@@ -25,5 +25,4 @@ Realizado por: Juan Guillermo Dueñas (jgduenasl@unal.edu.co), y Javier Sierra (
 Los libros en los que nos basamos para esta revisión fueron:
 [A Course in Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) <br>
 [Google Eigenvectors](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf) <br>
-
 [Para edición del documento es útil la guía de Markdown Rstudio] (https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)<br>
