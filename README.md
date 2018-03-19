@@ -14,7 +14,7 @@ Realizado por: [Juan Guillermo Dueñas](jgduenasl@unal.edu.co), y [Javier Mauric
 	+ [1.2 Scalars & Vectors](#12-scalars--vectors)
 	+ [1.3 Importance](#13-importance)
 	+ [1.4 Notación](#14-notation)
-- [Referencias](#Referencias)
+- [Referencias](#-Referencias)
 
 ## 0.0 Instalación
 
