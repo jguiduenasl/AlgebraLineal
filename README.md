@@ -6,17 +6,17 @@ Realizado por: [Juan Guillermo Dueñas](jgduenasl@unal.edu.co), y [Javier Sierra
 
 ## Tabla de Contenido
 
-- [0.0 Instalación](#00-setup)
+- [0.0 Instalación](#00-Instalación)
 	+ [0.1 Python y Pip](#01-python-and-pip)
 	+ [0.2 Librerias](#02-libraries)
-- [1.0 Introducción](#10-introduction)
+- [1.0 Introducción](#10-Introducción)
 	+ [1.1 Why Learn Linear Algebra?](#11-why-learn-linear-algebra)
 	+ [1.2 Scalars & Vectors](#12-scalars--vectors)
 	+ [1.3 Importance](#13-importance)
 	+ [1.4 Notación](#14-notation)
 
 
-
+## 0.0 Instalación
 
 ## 1.0 Introducción
 
